@@ -6,4 +6,4 @@ For each of the  WavePeel books,  this is where you will find our example Pseudo
 # Repository Overview
 
 ## PROGRAM AND CODE IN PYTHON
-- [Sub-Directory 1](./sub-directory-1/): Description of Sub-Directory 1.
+- [PROGRAM AND CODE IN PYTHON](./PROGRAM AND CODE IN PYTHON/): Description of Sub-Directory 1.
