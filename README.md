@@ -7,7 +7,7 @@ For each of the  WavePeel books,  this is where you will find our example Pseudo
 marks@designingits.com or marks@rowlevel.com
 
 # Mark's Research papers :
-<a href="https://rowlevel.com" target="_blank" rel="noopener noreferrer">RowLevel</a>
+[RowLevel](https://rowlevel.com)
 
 # Repository Overview
 
