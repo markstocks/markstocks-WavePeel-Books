@@ -13,3 +13,7 @@ marks@designingits.com or marks@rowlevel.com
 
 ## PROGRAM AND CODE IN PYTHON
 - [PROGRAM AND CODE IN PYTHON](./PROGRAM%20AND%20CODE%20IN%20PYTHON/): Problems, PseudoCode and PythonCode, plus some business examples.
+
+## Coming Soon:
+- PROGRAM AND CODE IN ZIG
+- PROGRAM AND CODE IN SQL
