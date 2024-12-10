@@ -1,5 +1,5 @@
 # MarkStocks-WavePeel-Books
-**Peeling the wave** refers to the way a wave breaks and progresses, typically from one side to the other, creating a "peeling" effect as the wave's crest moves along its length. This is ideal for surfers because it allows them to ride the wave horizontally across its face, rather than simply dropping straight down. Peeling waves provide more rideable surface and time, enabling longer and more dynamic rides.
+**Peeling the wave** refers to the way a wave breaks and progresses, typically from one side to the other, creating a "peeling" effect as the wave's crest moves along its length. This is ideal for surfers because it allows them to ride the wave horizontally across its face, rather than simply dropping straight down. Peeling waves provide more rideable surface area and ride time, enabling longer and more dynamic rides.
 
 A **peeling wave** reveals its face gradually, and a surfer rides it in sections rather than all at once, planning and following the wave as it peels. Similarly, when coding, our thought process involves breaking problems into smaller, manageable parts and addressing each step methodically—just like riding along a peeling wave:
 - **Problem-Solving**: We help you to think to dissecting a problem into smaller, manageable parts to understand and solve it more effectively.
