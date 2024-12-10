@@ -17,4 +17,4 @@ marks@designingits.com or marks@rowlevel.com
 ## Coming Soon:
 - Feb 2025: PROGRAM AND CODE IN ZIG - Level 1, (note: might be level 2).
 - Mar 2025: PROGRAM AND CODE IN SQL - Level 1.
-- May 2025: PROGRAM AND CODE USING ZIG POINTERS level 2. 
+- May 2025: PROGRAM AND CODE USING ZIG POINTERS - Level 2. 
