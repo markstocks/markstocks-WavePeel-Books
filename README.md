@@ -6,7 +6,7 @@ For each of the  WavePeel books,  this is where you will find our example Pseudo
 # Contact Mark Stocks
 marks@designingits.com or marks@rowlevel.com
 
-# Mark's Research papers :
+## Mark's Research papers :
 [RowLevel](https://rowlevel.com)
 
 # Repository Overview
