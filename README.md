@@ -1,4 +1,6 @@
-<img width="418" alt="image" src="https://github.com/user-attachments/assets/75118318-8d39-4195-9753-372c98461880">
+
+![image](https://github.com/user-attachments/assets/3d619ee2-299d-4e31-92e5-26d8aadfe142)
+
 
 # MarkStocks-WavePeel-Books
 A **peeling the wave** refers to the way a wave breaks and progresses, typically from one side to the other, creating a "peeling" effect as the wave's crest moves along its length. This is ideal for surfers because it allows them to ride the wave horizontally across its face, rather than simply dropping straight down. Peeling waves provide more rideable surface area and ride time, enabling longer and more dynamic rides.
