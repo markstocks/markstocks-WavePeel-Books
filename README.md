@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/3d619ee2-299d-4e31-92e5-26d8aadfe142)
+<img src="https://github.com/user-attachments/assets/3d619ee2-299d-4e31-92e5-26d8aadfe142" alt="image" width="30%">
 
 
 # MarkStocks-WavePeel-Books
